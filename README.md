@@ -25,16 +25,15 @@ I am an **AI & Data Science Engineer** passionate about bridging complex researc
 * 📍 Based in **Calais, Hauts-de-France**[cite: 10].
 
 ---
-
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Frameworks
+### 💻 Languages & Scripting
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,sql,react,nextjs,nodejs,fastapi,flask&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,mysql,html,css&perline=7" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-HackerRank_Advanced_Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </div>
 
 ### 🧠 Data Science & AI
@@ -48,25 +47,26 @@ I am an **AI & Data Science Engineer** passionate about bridging complex researc
   <img src="https://img.shields.io/badge/LLM-PEFT_&_FineTuning-blue?style=for-the-badge" />
 </div>
 
-### ☁️ Infrastructure & Tools
+### ☁️ Data Engineering & Cloud
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,linux&perline=5" />
   </a>
   <br/>
+  <img src="https://img.shields.io/badge/dbt-Fundamentals_Certified-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-Data_Cloud-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/MQTT-IoT_Protocol-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
+### 🌐 Web & Backend
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask&perline=5" />
+  </a>
+</div>
 ---
 
-## 📚 Certifications
-* **DeepLearning.AI / Stanford:** Neural Networks and Deep Learning.
-* **DeepLearning.AI / Stanford:** Structuring Machine Learning Projects.
-* **DeepLearning.AI / Stanford:** Hyperparameter Tuning, Regularization and Optimization[cite: 28].
-
----
 
 ## 🏆 Featured Projects
 
@@ -88,6 +88,3 @@ I am an **AI & Data Science Engineer** passionate about bridging complex researc
 </div>
 
 ---
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
