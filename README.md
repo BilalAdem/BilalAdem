@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI & Data Science Engineer** passionate about bridging complex research with scalable production. I am deeply committed to using technology for **sustainability and real-world impact**[cite: 6].
+I am an **AI & Data Science Engineer** passionate about bridging complex research with scalable production. I am deeply committed to using technology for **sustainability and real-world impact**.
 
-* 🔭 **Current Focus:** Creating **smart greenhouses** using Computer Vision [cite: 4] and developing **financial volatility models**.
-* 🌱 **Deep Learning:** Expert in **LLM Optimization (PEFT/Adapters)**, **Reinforcement Learning (PPO/SAC)**, and **Vision Pipelines**[cite: 13, 62].
-* 📍 Based in **Calais, Hauts-de-France**[cite: 10].
+* 🔭 **Current Focus:** Creating **smart greenhouses** using Computer Vision and developing **financial volatility models**.
+* 🌱 **Deep Learning:** Expert in **LLM Optimization (PEFT/Adapters)**, **Reinforcement Learning (PPO/SAC)**, and **Vision Pipelines**.
+* 📍 Based in **Calais, Hauts-de-France**.
 
 ---
 ## 🛠️ Technical Skills
@@ -72,11 +72,11 @@ I am an **AI & Data Science Engineer** passionate about bridging complex researc
 
 | Project | Tech Stack | Key Achievements |
 | :--- | :--- | :--- |
-| **🤖 Smart Greenhouse AI** | YOLO, IoT (ESP32), React Native | Achieved **99.7% NPK classification** accuracy; integrated real-time detection with solar-powered IoT sensors[cite: 38, 59]. |
-| **📉 Financial Volatility Models** | Python, SABR, Heston | Developed **Stochastic Volatility models** to price options and generated implied volatility smiles/skews[cite: 55, 56]. |
-| **🏥 Medical LLM Assistant** | DistilBERT, PEFT, Adapters | Fine-tuned DistilBERT for medical QA using **PEFT and prompt tuning** to ensure high semantic relevance[cite: 61, 62]. |
-| **📹 Video Action Recognition** | EfficientNet, TimeDistributed | Trained on **UCF101** (13k videos) using transfer learning for multi-class human action recognition[cite: 64, 66]. |
-| **📈 RL Portfolio Optimizer** | Python, PPO, DDPG, SAC | Implemented **Reinforcement Learning** algorithms for dynamic multi-asset portfolio optimization[cite: 51, 52]. |
+| **🤖 Smart Greenhouse AI** | YOLO, IoT (ESP32), React Native | Achieved **99.7% NPK classification** accuracy; integrated real-time detection with solar-powered IoT sensors. |
+| **📉 Financial Volatility Models** | Python, SABR, Heston | Developed **Stochastic Volatility models** to price options and generated implied volatility smiles/skews. |
+| **🏥 Medical LLM Assistant** | DistilBERT, PEFT, Adapters | Fine-tuned DistilBERT for medical QA using **PEFT and prompt tuning** to ensure high semantic relevance. |
+| **📹 Video Action Recognition** | EfficientNet, TimeDistributed | Trained on **UCF101** (13k videos) using transfer learning for multi-class human action recognition. |
+| **📈 RL Portfolio Optimizer** | Python, PPO, DDPG, SAC | Implemented **Reinforcement Learning** algorithms for dynamic multi-asset portfolio optimization. |
 
 ---
 
