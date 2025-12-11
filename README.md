@@ -22,6 +22,7 @@ I am an **AI & Data Science Engineer** passionate about bridging complex researc
 
 * 🔭 **Current Focus:** Creating **smart greenhouses** using Computer Vision and developing **financial volatility models**.
 * 🌱 **Deep Learning:** Expert in **LLM Optimization (PEFT/Adapters)**, **Reinforcement Learning (PPO/SAC)**, and **Vision Pipelines**.
+* 👯 I’m looking to collaborate on **ML/DL projects**, **GreenTech (AgriTech)**, and **Quantitative Finance research**.
 * 📍 Based in **Calais, Hauts-de-France**.
 
 ---
