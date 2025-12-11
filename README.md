@@ -6,7 +6,7 @@
   
   <br/>
 
-  <a href="https://www.linkedin.com/in/bilal-adem-attar">
+  <a href="https://www.linkedin.com/in/bilaladem">
     <img src="https://img.shields.io/badge/LinkedIn-Connecte_avec_moi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:billalademattar@gmail.com">
