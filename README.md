@@ -71,6 +71,9 @@ I am an **AI & Data Science Engineer** passionate about bridging the gap between
 </div>
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalAdem)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🏆 Featured Projects
 
 | Project | Tech Stack | Domain |
