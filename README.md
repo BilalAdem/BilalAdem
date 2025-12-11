@@ -1,51 +1,66 @@
 <div align="center">
   
-  # Salut, je suis Bilal Adem ATTAR ! 👋
+  # Hi, I'm Bilal Adem ATTAR! 👋
 
-  ### Ingénieur en IA & Data Science | Master Traitement du Signal
+  ### AI & Data Science Engineer | Master's in Signal Processing
   
   <br/>
 
-  <a href="https://www.linkedin.com/in/bilaladem">
-    <img src="https://img.shields.io/badge/LinkedIn-Connecte_avec_moi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/bilal-adem-attar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:billalademattar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacte_moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br/><br/>
 </div>
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
-Je suis un **Ingénieur en IA** passionné par la résolution de problèmes réels grâce à la Data Science. [cite_start]Actuellement en Master Traitement du Signal à l'**Université Côte d'Opale** (France)[cite: 20], je me spécialise dans le **Deep Learning**, la **Vision par Ordinateur** et les systèmes financiers.
+I am an **AI & Data Science Engineer** passionate about bridging the gap between complex AI research and scalable production. Currently pursuing a **Master's in Signal Processing** at **Université Côte d'Opale** (France), I specialize in **Deep Learning**, **Computer Vision**, and **Financial Systems**.
 
-* 🔭 Je travaille actuellement sur des modèles de **Trading Algorithmique (RL)** et des **Serres Intelligentes IoT**.
-* 🌱 J'apprends en profondeur l'optimisation des **LLMs** et l'architecture **Big Data**.
-* 🎯 Mon objectif : Créer des systèmes autonomes performants et durables.
-* 📍 Basé à **Calais, France**.
+* 🔭 I am currently working on **Algorithmic Trading Models (RL)** and **IoT Smart Greenhouses**.
+* 🌱 I am deeply learning **LLM Optimization (PEFT)** and **Big Data Architecture**.
+* 🎯 My Goal: To build autonomous, sustainable, and high-impact intelligent systems.
+* 📍 Based in **Calais, France**.
 
 ---
 
-## 🛠️ Mes Compétences (Tech Stack)
+## 🛠️ Technical Skills
 
+### 💻 Languages & Web Development
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn,pandas&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash,mysql,nodejs,react,nextjs,fastapi,flask&perline=12" />
+  </a>
+</div>
+
+### 🧠 Data Science, AI & Computer Vision
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&perline=6" />
   </a>
   <br/>
+  <img src="https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</div>
+
+### ☁️ Data Engineering, Cloud & Tools
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,linux&perline=6" />
   </a>
   <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,mysql,firebase,azure,linux&perline=6" />
-  </a>
+  <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-Data_Cloud-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MQTT-IoT_Protocol-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" />
 </div>
 
 ---
 
-## 📈 Mes Statistiques GitHub
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BilalAdem&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
@@ -54,11 +69,16 @@ Je suis un **Ingénieur en IA** passionné par la résolution de problèmes rée
 
 ---
 
-## 🏆 Projets Phares
+## 🏆 Featured Projects
 
-| Projet | Technologies | Type |
+| Project | Tech Stack | Domain |
 | :--- | :--- | :--- |
-| **🤖 Système IA Serre Intelligente** | YOLO, IoT (ESP32), React Native | Vision & IoT |
-| **📈 RL Portfolio Optimizer** | Python, PPO/SAC, Pandas | Finance Quant |
+| **🤖 Smart Greenhouse AI System** | YOLO, IoT (ESP32), React Native | Computer Vision & IoT |
+| **📈 RL Portfolio Optimizer** | Python, PPO/SAC, Pandas | Quant Finance |
 | **🏥 Medical LLM Assistant** | Transformers, PEFT, NLP | NLP |
-| **🚗 CarHub Marketplace** | Next.js, TypeScript, Docker | Fullstack |
+| **🚗 CarHub Marketplace** | Next.js, TypeScript, Docker | Fullstack Web |
+
+---
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
