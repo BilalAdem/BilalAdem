@@ -63,10 +63,12 @@ I am an **AI & Data Science Engineer** passionate about bridging the gap between
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalAdem&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAdem&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+  <!-- Overall stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BilalAdem&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="BilalAdem's GitHub Stats" />
 
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAdem&layout=compact&theme=radical&hide_border=true" height="150" alt="Top languages" />
+</div>
 ---
 
 ## 🏆 Featured Projects
